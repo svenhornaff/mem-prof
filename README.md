@@ -8,7 +8,7 @@ I am using MAC and this is what the below is based on.
 
 ---
 
-general cleanup first
+## 0. General cleanup first
 
 ```shell
 brew update && brew upgrade
